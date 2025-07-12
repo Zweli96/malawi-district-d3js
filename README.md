@@ -12,7 +12,7 @@ Visualizes Malawi's district connections using D3.js force-directed layout. Outp
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Zweli96/malawi-district-d3js.git
    ```
 2. Open `index.html` in a web browser.
 3. View the SVG graph and check the console (F12) for optimized positions.
